@@ -1,0 +1,36 @@
+img.capa {
+    width: 100%;
+    height: 50%;
+
+
+}
+ img.logoALKTECNO{
+    width:  1.8rem;
+    height: 1.8rem; 
+    margin-left: 0.5rem;
+    margin-top: 0.5rem;
+    padding-left: 0.5rem;
+    padding-top: 0.5rem;
+       
+ }
+ 
+.capa {
+    width: auto;
+    height: auto;
+    background-color: rgba(0, 0, 0, 0.5);
+    
+}
+.corpo {
+    width: auto;
+    height: auto;
+    background-color: aliceblue;
+
+    
+}
+.rodape{
+    width: auto;
+    height: auto;
+    background-color: black;
+    top: auto;
+    margin-top: auto;
+}
